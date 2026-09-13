@@ -2,11 +2,11 @@
   "packs": [
     {
       "id": "main",
-      "name": "TestPack",
-      "version": "0.1-test",
+      "name": "ZPack",
+      "version": "0.1",
       "forge_version": "47.2.20",
       "minecraft_version": "1.20.1",
-      "modpack_url": "https://github.com/ToXi4eK12/testModpackLauncher/releases/download/test/modpack_test.zip",
+      "modpack_url": "https://github.com/ToXi4eK12/testModpackLauncher/releases/download/test/Zmods.zip",
       "changelog": "тест"
     }
   ]
