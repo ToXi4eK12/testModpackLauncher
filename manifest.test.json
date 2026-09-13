@@ -3,6 +3,6 @@
   "version": "0.1-test",
   "forge_version": "47.2.20",
   "minecraft_version": "1.20.1",
-  "modpack_url": "PUT_YOUR_DIRECT_LINK_TO_modpack_test.zip_HERE",
+  "modpack_url": "https://github.com/ToXi4eK12/testModpackLauncher/releases/download/test/modpack_test.zip",
   "changelog": "Тестовая пустышка: проверяем установку Minecraft + Forge + распаковку архива без реальных модов."
 }
